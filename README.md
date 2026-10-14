@@ -4,7 +4,7 @@
 
 <div dir="rtl" align="center">
 
-# سلام، من مصطفی‌ام
+# سلام
 
 ### برنامه‌نویس وب و ربات تلگرام، سازنده‌ی پروژه‌های Orgin
 
@@ -124,15 +124,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo30rok&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/409ba5/mo30rok" width="100%" alt="Contribution Calendar" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mo30rok&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
 </p>
 
 <br/>
